@@ -3,7 +3,6 @@ output_*/
 outputs/
 scripts/
 icl_inference_output/
-.vscode/
 tmp/
 configs/eval_subjective_alignbench_test.py
 configs/openai_key.py
@@ -125,7 +124,6 @@ turbomind/
 *.png
 *.txt
 *.jpg
-*.json
 *.jsonl
 *.csv
 *.npy
@@ -133,3 +131,5 @@ turbomind/
 
 # aliyun
 core.*
+
+weights
